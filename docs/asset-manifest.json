@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.js": "/teste-desenvolvimento-web/static/js/main.e856c697.chunk.js",
-    "main.js.map": "/teste-desenvolvimento-web/static/js/main.e856c697.chunk.js.map",
+    "main.js": "/teste-desenvolvimento-web/static/js/main.fa2de993.chunk.js",
+    "main.js.map": "/teste-desenvolvimento-web/static/js/main.fa2de993.chunk.js.map",
     "runtime-main.js": "/teste-desenvolvimento-web/static/js/runtime-main.6beb5854.js",
     "runtime-main.js.map": "/teste-desenvolvimento-web/static/js/runtime-main.6beb5854.js.map",
     "static/css/2.de424728.chunk.css": "/teste-desenvolvimento-web/static/css/2.de424728.chunk.css",
     "static/js/2.df48196d.chunk.js": "/teste-desenvolvimento-web/static/js/2.df48196d.chunk.js",
     "static/js/2.df48196d.chunk.js.map": "/teste-desenvolvimento-web/static/js/2.df48196d.chunk.js.map",
     "index.html": "/teste-desenvolvimento-web/index.html",
-    "precache-manifest.29963bce4684a1efcd493c52c621aa9b.js": "/teste-desenvolvimento-web/precache-manifest.29963bce4684a1efcd493c52c621aa9b.js",
+    "precache-manifest.d321d077d54a60cb5d116ac02b28fca8.js": "/teste-desenvolvimento-web/precache-manifest.d321d077d54a60cb5d116ac02b28fca8.js",
     "service-worker.js": "/teste-desenvolvimento-web/service-worker.js",
     "static/css/2.de424728.chunk.css.map": "/teste-desenvolvimento-web/static/css/2.de424728.chunk.css.map",
     "static/js/2.df48196d.chunk.js.LICENSE.txt": "/teste-desenvolvimento-web/static/js/2.df48196d.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.6beb5854.js",
     "static/css/2.de424728.chunk.css",
     "static/js/2.df48196d.chunk.js",
-    "static/js/main.e856c697.chunk.js"
+    "static/js/main.fa2de993.chunk.js"
   ]
 }
